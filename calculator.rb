@@ -103,10 +103,10 @@ while true
     calculator_method
   elsif input == 2
     # history = gets.chomp.to_i
-      history = @history
+      #history = @history
       puts "History:"
       @variable
-      @history
+      puts = @history
       # history << @sum_1
       # history << @sum_2
       # history << @sum_3
